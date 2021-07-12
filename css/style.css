@@ -11,7 +11,7 @@
 }
 .img-icon img{
     margin-top: 15px;
-    margin-left: 300px;
+    margin-left: 285px;
     width: 40.42;
     height: 52px;
 }
@@ -32,7 +32,7 @@
     display: flex;
 }
 .nav-menu ul li{
-    padding: 20px;
+    padding: 10px;
     font-size: 19px;
     color: white;
 
@@ -42,5 +42,14 @@
     display: flex;
 }
 .nav-img{
-    margin: 15px;
+    margin-top: 15px;
+    margin-right:285px;
+}
+
+/* main section start from here */
+
+.container{
+    width: 1500px;
+    height:1220px;
+    background-color: #F3F1FF;
 }
